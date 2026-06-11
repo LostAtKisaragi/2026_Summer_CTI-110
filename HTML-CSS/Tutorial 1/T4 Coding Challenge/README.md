@@ -15,3 +15,20 @@ As the scan failed, I'll need to fix what I can and log other errors I noticed.
 
 ============================
 
+Error 1: Line 1 missing "!" in "<!doctype html>"
+
+Error 2: Line 2 "<html language="english">" instead of "<html lang="en">
+
+Error 3: Line 15 "relation="stylesheet"" instead of "rel="stylesheet""
+
+Error 4: Line 3 and 16 "<heading>" instead of "<head>"
+
+Error 5: Line 19 "<image source=" instead of "<img src="
+
+Error 6: Line 37 "</ol>" instead of "</ul>"
+
+Error 7: Line 15 file name incorrect
+
+Error 8: Line 4 "<--" instead of "< !--"
+
+Error 9 and 10: Line 33 adjusted order of tags
